@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background: ;
+    position: fixed;
+    background: rgba(12, 12, 161, 0);
+}
+#menu_lateral{
+    display:inline-block;
+    height: 10vw;
+    width: 100%;
+    background: ;
+    margin-left: 0;
+    position: relative;
+    margin-top: 0;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-family: 'Playfair Display', serif;
+    font-size: 2vw;
+    margin: 1vw 1vw auto;
+    position:relative;
+    float: ;
+}
+#logo{
+    width: 10vw;
+    position: absolute;
+    left: 0;
+}
+#imagem_fundo_foto{
+    position:relative;
+    height: 10vw;
+    width: 100%;
+    top: -1;
+    
+}
+div{
+    position: relative;
+}
+.textoTelaInicial{
+    text-align: center;
+    display: block;
+    position: relative;
+}
+#foto{
+    height: 20vw;
+    width: 20vw;;
+    position: relative;
+    margin-inline: 39vw;
+    margin-top: ;
+    top: 5vw;
+}
+
+#listGitHub{
+    text-decoration:none;
+    color:rgba(198, 198, 240)
+}
+#gitHub{
+    margin-inline:50vw;
+    margin-top: auto;
+    height: auto;
+    width: auto;
+}
+#apresentacao{
+    display: block;
+    float:right:
+}
+#paragrafoQuemSou{
+    display:inline-block ;
+   
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align:left;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#teste{
+    text-decoration: none;
+    position: relative;
+    left: 50vh;
+    margin: 6px;
+    padding: 5px;
+    top: -0.3vh;
+    float: right;
+    
+}
+section{
+    width: 100%;
+    height: 95vh;
+}
+nav{
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow: 2px 2px 12px rgba(0 , 0, 0 , 0.2);
+    padding: 2px 25.1vw;
+    width: 49.75vw;
+    height: 10vh;
+    position:relative;
+    text-align: center;
+}
+#texto1 {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow: 2px 2px 12px rgba(0 , 0, 0 , 0.2);
+    width: 43vh;
+    height: 60vh;
+    position:relative;
+    text-align: center;
+    left: 35vh;
+    right: 0;
+    margin-inline: -2.5vw;
+
+}
+#texto1_Titulo{
+    text-decoration: none;
+    position: relative;
+}
+#border{
+    border: 1px solid blue;
+}
+#telaContato{
+    top: -40.7vw;
+    height: 50vh;
+    padding: 10vw;
+    left: 15vw;
+}
+#textoContatos{
+    position: relative;
+    top: -20vh;
+    font-size: xx-large;
+}
+#textoQuemSou{
+    top: 0.1vw;
+    height: 50vh;
+    padding: 10vw;
+    left: 15vw;
+}
+#telaProjetos{
+    height: 100vh;
+    top: 0.2vh;
+    padding: 10vw;
+    left: 15vw;
+}
+#GitHubVermelho{
+    color: red;
+    font-size: x-large;
+}
+#CampoProjeto{
+    height: 60vh;
+    width: 0vw;
+}
+#emBreve{
+    height: 35vh;
+    width: auto;
+    position: relative;
+    left: -20vw;
+    top: 12vh;
+}
+#emBreve2{
+    height: 35vh;
+    width: auto;
+    position: relative;
+    left: 4vw;
+    top: -23.5vh;
+}
+#textoMeusProjetos{
+    position:relative;
+    top: -15vh;
+    margin: 0%;
+    padding: 0;
+    font-size: xx-large;
+}
+#textIndexTitulo{
+    font-size: xx-large;
+    padding: 2vw;
+    display: block;
+    margin-inline: -17vw;
+    position: relative;
+    top: -10vh;
+}
+#textIndexTitulo2{
+    font-size: xx-large;
+    padding: 2vw;
+    display: block;
+    margin-inline: -17vw;
+    position: relative;
+    top: -39vh;
+}
+#textIndexParagrafo{
+    font-size: x-large;
+    padding: 40px;
+    display: block;
+    margin-inline: -16vw;
+    text-align: center;
+    position: relative;
+    top: -25vh;
+}
+#textIndexParagrafo2{
+    font-size: x-large;
+    padding: 40px;
+    display: block;
+    margin-inline: -12vw;
+    text-align: center;
+    position: relative;
+    top: -54vh;
+}    
+#textQuemSouTitulo{
+    position: inherit;
+    font-size: xx-large;
+    padding: 0;
+    display: block;
+    top: -10.5vw;
+    left: -2vw;
+}
+#textQuemSouparagrafo{
+    font-size: x-large;
+    text-align: justify;
+}
